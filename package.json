@@ -1,0 +1,30 @@
+{
+  "name": "sensortag-projects",
+  "version": "1.0.0",
+  "description": "Some simple Texas Instruments SensorTag projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonvs/sensortag-projects.git"
+  },
+  "keywords": [
+    "sensortag",
+    "ble",
+    "nodejs",
+    "iot"
+  ],
+  "author": "Elton Viana <me@eltonviana.com> (https://www.eltonviana.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eltonvs/sensortag-projects/issues"
+  },
+  "homepage": "https://github.com/eltonvs/sensortag-projects#readme",
+  "devDependencies": {
+    "async": "^2.4.1",
+    "robotjs": "^0.4.7",
+    "sensortag": "^1.3.0"
+  }
+}
